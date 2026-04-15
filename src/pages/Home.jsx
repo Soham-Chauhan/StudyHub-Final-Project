@@ -31,18 +31,18 @@ const Home = () => {
             </Link>
 
             {/* Heading */}
-            <div className='text-center text-4xl font-semibold mt-7'>
+            <div className='mt-7 px-2 text-center text-3xl font-semibold sm:text-4xl'>
                 Empower Your Future with
                 <HighlightText text={"Coding Skills"} />
             </div>
 
             {/* intro */}
-            <div className=' mt-4 w-[90%] text-center text-lg font-bold text-richblack-300'>
+            <div className=' mt-4 w-[95%] text-center text-base font-bold text-richblack-300 sm:w-[90%] sm:text-lg'>
                 With our online coding courses, you can learn at your own pace, from anywhere in the world, and get access to a wealth of resources, including hands-on projects, quizzes, and personalized feedback from instructors. 
             </div>
 
             {/* Buttons */}
-            <div className='flex flex-row gap-7 mt-8'>
+            <div className='mt-8 flex flex-wrap justify-center gap-4 sm:flex-row sm:gap-7'>
                 <CTAButton active={true} linkto={"/signup"}> 
                     Learn More
                 </CTAButton>
@@ -53,8 +53,8 @@ const Home = () => {
             </div>
 
             {/* video */}
-            <div className='mx-3 my-14 shadow-[10px_-5px_50px_-5px] shadow-blue-200'>
-                <video className='shadow-[20px_20px_rgba(255,255,255)]'
+            <div className='mx-3 my-14 w-full max-w-[1000px] shadow-[10px_-5px_50px_-5px] shadow-blue-200'>
+                <video className='w-full shadow-[20px_20px_rgba(255,255,255)]'
                 muted
                 loop
                 autoPlay
@@ -163,7 +163,7 @@ const Home = () => {
 
                 {/* Section 2 header */}
                 <div className='flex flex-col lg:flex-row justify-between gap-5 mb-10 -mt-20 lg:mt-[95px]'>
-                    <div className='text-4xl font-semibold lg:w-[45%]'>
+                    <div className='text-3xl font-semibold sm:text-4xl lg:w-[45%]'>
                         Get the Skills you need for a
                         <HighlightText text={"Job that is in demand"} />
                     </div>
@@ -193,7 +193,7 @@ const Home = () => {
         <div className='w-11/12 mx-auto max-w-maxContent flex-col items-center justify-between gap-8 first-letter bg-richblack-900 text-white'>
             <InstructorSection />
 
-            <h2 className='text-center text-4xl font-semobold mt-10'>Review From Other Learners</h2>
+            <h2 className='mt-10 text-center text-3xl font-semobold sm:text-4xl'>Review From Other Learners</h2>
             {/* Review Slider here */}
             <ReviewSlider />
         </div>

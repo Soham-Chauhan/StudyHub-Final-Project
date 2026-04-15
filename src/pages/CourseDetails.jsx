@@ -159,11 +159,11 @@ const CourseDetails = () => {
                         </div>
                    </div>
                    
-                   <div className='flex w-full flex-row gap-4 border-y border-y-richblack-500 py-4 lg:hidden'>
+                   <div className='flex w-full flex-col gap-4 border-y border-y-richblack-500 py-4 sm:flex-row sm:items-center lg:hidden'>
                         <p className='flex-1 text-3xl font-semibold text-richblack-5'>
                             Rs. {price}
                         </p>
-                        <div className='flex gap-4'>
+                        <div className='flex flex-wrap gap-3 sm:gap-4'>
                             <button className='yellowButton' onClick={handleBuyCourse}>Buy Now</button>
                             <button className='blackButton' onClick={() => dispatch(addToCart(courseData.data.courseDetails))}>Add to Cart</button>
                         </div>
@@ -184,7 +184,7 @@ const CourseDetails = () => {
         {/* What will you learn, Course Content, Sections dropdown, Author */}
         <div className='mx-auto box-content px-4 text-start text-richblack-5 lg:w-[1260px]'>
             <div className='mx-auto max-w-maxContentTab lg:mx-0 xl:max-w-[810px]'>
-                <div className='my-10 border border-richblack-700 bg-[#000814] p-10 rounded-2xl shadow-2xl shadow-richblack-900'>
+                <div className='my-10 rounded-2xl border border-richblack-700 bg-[#000814] p-5 shadow-2xl shadow-richblack-900 sm:p-10'>
                     <p className='text-3xl font-bold mb-8 tracking-tight'>What you'll learn</p>
                     <div className='grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-5 text-richblack-100 text-[15px] font-medium leading-relaxed'>
                         {whatWillYouLearn?.split('\n').map((item, index) => (
@@ -221,7 +221,7 @@ const CourseDetails = () => {
                         {courseContent.map((section) => (
                             <div key={section._id} className='overflow-hidden border border-solid border-richblack-600 bg-richblack-800 text-richblack-5 first:rounded-t-xl last:rounded-b-xl transition-all duration-200'>
                                 {/* Section */}
-                                <div onClick={() => handleActive(section._id)} className='flex cursor-pointer items-center justify-between bg-richblack-700 bg-opacity-40 px-8 py-6 transition-all duration-200 hover:bg-opacity-60'>
+                                <div onClick={() => handleActive(section._id)} className='flex cursor-pointer flex-col gap-3 bg-richblack-700 bg-opacity-40 px-4 py-4 transition-all duration-200 hover:bg-opacity-60 sm:flex-row sm:items-center sm:justify-between sm:px-8 sm:py-6'>
                                     <div className='flex items-center gap-3'>
                                         <MdOutlineArrowForwardIos 
                                             className={`transition-all duration-300 transform ${isActive.includes(section._id) ? '-rotate-90' : 'rotate-90'}`}
@@ -229,7 +229,7 @@ const CourseDetails = () => {
                                         />
                                         <p className='font-bold text-lg'>{section.sectionName}</p>
                                     </div>
-                                    <div className='flex items-center gap-4 text-yellow-25 text-sm font-bold'>
+                                    <div className='flex flex-wrap items-center gap-3 text-sm font-bold text-yellow-25 sm:gap-4'>
                                         <span>
                                             {`${section.subSection.length} lecture(s)`}
                                         </span>
@@ -254,7 +254,7 @@ const CourseDetails = () => {
                                     style={{ overflow: 'hidden' }}
                                 >
                                     {section.subSection.map((subSection) => (
-                                        <div key={subSection._id} className='flex items-center justify-between px-12 py-4 text-richblack-100 hover:text-richblack-5 transition-all duration-200 group border-b border-richblack-800 last:border-none'>
+                                        <div key={subSection._id} className='group flex flex-col gap-2 border-b border-richblack-800 px-5 py-4 text-richblack-100 transition-all duration-200 hover:text-richblack-5 last:border-none sm:flex-row sm:items-center sm:justify-between sm:px-12'>
                                             <div className='flex items-center gap-4'>
                                                 <BiVideo className='text-richblack-300 group-hover:text-yellow-25 transition-all duration-200' size={20}/>
                                                 <p className='text-[15px] font-medium capitalize tracking-wide leading-relaxed'>{subSection.title}</p>

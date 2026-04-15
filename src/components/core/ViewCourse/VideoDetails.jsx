@@ -90,7 +90,7 @@ const VideoDetails = () => {
     }
 
     return (
-        <div className="flex flex-col gap-5 text-white pr-4">
+        <div className="flex flex-col gap-5 text-white pr-0 md:pr-4">
             {!videoData ? (
                 <div className='relative aspect-video w-full overflow-hidden rounded-2xl shadow-2xl'>
                     <img
@@ -134,7 +134,7 @@ const VideoDetails = () => {
                                     text="Rewatch"
                                     customClasses="text-xl max-w-max px-6 mx-auto mt-4 !bg-richblack-800"
                                 />
-                                <div className="mt-12 flex min-w-[250px] justify-center gap-x-6 text-xl">
+                                <div className="mt-12 flex min-w-0 flex-wrap justify-center gap-3 text-xl">
                                     {!isFirstVideo() && (
                                         <button disabled={loading} onClick={goToPrevVideo} className='blackButton !py-2 !px-6'>Prev</button>
                                     )}
@@ -153,7 +153,7 @@ const VideoDetails = () => {
                     {videoData?.title}
                 </h1>
                 <div className='flex flex-col gap-2'>
-                    <p className="text-richblack-200 text-lg font-medium leading-relaxed max-w-[80%]">
+                    <p className="max-w-full text-richblack-200 text-base font-medium leading-relaxed sm:max-w-[80%] sm:text-lg">
                         {videoData?.description}
                     </p>
                     {courseEntireData?.createdAt && (

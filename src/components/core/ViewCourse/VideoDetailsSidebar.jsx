@@ -37,10 +37,10 @@ const VideoDetailsSidebar = ({setReviewModal}) => {
     }, [courseSectionData, sectionId, subSectionId])
     
     return (
-        <div className="flex h-[calc(100vh-3.5rem)] w-[320px] max-w-[350px] flex-col border-r-[1px] border-r-richblack-700 bg-richblack-800">
+        <div className="flex h-[calc(100vh-3.5rem)] w-[85vw] max-w-[350px] flex-col border-r-[1px] border-r-richblack-700 bg-richblack-800 md:w-[320px]">
             {/* Header Section */}
             <div className="mx-5 flex flex-col items-start justify-between gap-4 border-b border-richblack-600 py-6">
-                <div className="flex w-full items-center justify-between">
+                <div className="flex w-full flex-wrap items-center justify-between gap-3">
                     <div 
                         onClick={()=> navigate("/dashboard/enrolled-courses")}
                         className="flex h-[35px] w-[35px] items-center justify-center rounded-full bg-richblack-100 p-1 text-richblack-700 hover:scale-95 transition-all duration-200 cursor-pointer shadow-md"
@@ -50,7 +50,7 @@ const VideoDetailsSidebar = ({setReviewModal}) => {
                     </div>
                     <IconBtn 
                         text="Add Review"
-                        customClasses="ml-auto !bg-yellow-50 !text-richblack-900 border-none font-bold py-2 px-5 hover:scale-105 transition-all duration-300 shadow-lg shadow-yellow-200/20"
+                        customClasses="ml-auto !bg-yellow-50 !text-richblack-900 border-none font-bold py-2 px-3 sm:px-5 hover:scale-105 transition-all duration-300 shadow-lg shadow-yellow-200/20"
                         onclick={() => setReviewModal(true)}
                     />
                 </div>

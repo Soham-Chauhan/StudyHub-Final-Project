@@ -45,8 +45,8 @@ const ContactPage = () => {
             </div>
 
             <div className='lg:w-[60%]'>
-                <div className='border border-richblack-600 text-richblack-300 rounded-xl p-7 lg:p-14 flex gap-3 flex-col'>
-                    <h1 className="text-4xl leading-10 font-semibold text-richblack-5">Got a Idea? We've got the skills. Let's team up</h1>
+                <div className='flex flex-col gap-3 rounded-xl border border-richblack-600 p-5 text-richblack-300 sm:p-7 lg:p-14'>
+                    <h1 className="text-3xl font-semibold leading-10 text-richblack-5 sm:text-4xl">Got a Idea? We've got the skills. Let's team up</h1>
                     <p className="">Tell us more about yourself and what you're got in mind.</p>
                     <div className=' mt-7'>
                         <ContactUsForm/> 
@@ -57,7 +57,7 @@ const ContactPage = () => {
         </div>
         
         <div className='relative mx-auto my-20 flex w-11/12 max-w-maxContent flex-col items-center justify-between gap-8 bg-richblack-900 text-white'>
-        <h1 className="text-center text-4xl font-semibold mt-8">Reviews From Other Learners</h1>
+        <h1 className="mt-8 text-center text-3xl font-semibold sm:text-4xl">Reviews From Other Learners</h1>
         <ReviewSlider />
         </div>
         
