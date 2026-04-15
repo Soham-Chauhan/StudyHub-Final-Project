@@ -1,0 +1,33 @@
+﻿Connected to DB
+Verifying thumbnails for ALL 30 courses...
+[OK] Basic React -> Updated with ID: 1633356122544-f134324a6cee
+[OK] Python for AI -> Updated with ID: 1526374965328-7f61d4dc18c5
+[OK] Figma UI/UX Masterclass -> Updated with ID: 1586717791821-3f44a563cc4c
+[OK] MERN Stack Specialist -> Updated with ID: 1547658719-da2b811691ee
+[OK] React Navigation Deep Dive -> Updated with ID: 1633356122544-f134324a6cee
+[OK] Data Visualization with D3.js -> Updated with ID: 1516321318423-f06f85e504b3
+[OK] Advanced Cyber Security -> Updated with ID: 1550751827-4bd374c3f58b
+[OK] Machine Learning Bootcamp -> Updated with ID: 1555255707-c0796c88bc21
+[OK] Adobe Illustrator 101 -> Updated with ID: 1516321318423-f06f85e504b3
+[OK] Graphic Design Fundamentals -> Updated with ID: 1586717791821-3f44a563cc4c
+[OK] Data Science with Python -> Updated with ID: 1526374965328-7f61d4dc18c5
+[OK] Machine Learning Foundations -> Updated with ID: 1555255707-c0796c88bc21
+[OK] Complete Web Design -> Updated with ID: 1586717791821-3f44a563cc4c
+[OK] Game Development with Unity -> Updated with ID: 1552824702-869279093e09
+[OK] Full-Stack Web Boot Camp - Devops -> Updated with ID: 1451187580459-43490279c0fa
+[OK] Advanced React Mastery - Devops -> Updated with ID: 1633356122544-f134324a6cee
+[OK] Practical Python for Beginners - ai ml -> Updated with ID: 1526374965328-7f61d4dc18c5
+[OK] Machine Learning Concepts with Python - ai ml -> Updated with ID: 1526374965328-7f61d4dc18c5
+[OK] Building Scalable Android Apps - Web Development -> Updated with ID: 1607252689355-113d8a3098ad
+[OK] Cloud Infrastructure Specialist - Web Development -> Updated with ID: 1451187580459-43490279c0fa
+[OK] Go Programming Expert Level - Data Science -> Updated with ID: 1551288049-bbda3865c871
+[OK] Strategic Cybersecurity Overview - Data Science -> Updated with ID: 1550751827-4bd374c3f58b
+[OK] Full-Stack Web Boot Camp - Design -> Updated with ID: 1586717791821-3f44a563cc4c
+[OK] Advanced React Mastery - Design -> Updated with ID: 1633356122544-f134324a6cee
+[OK] Practical Python for Beginners - Mobile App Development -> Updated with ID: 1526374965328-7f61d4dc18c5
+[OK] Machine Learning Concepts with Python - Mobile App Development -> Updated with ID: 1526374965328-7f61d4dc18c5
+[OK] Building Scalable Android Apps - Cyber Security -> Updated with ID: 1550751827-4bd374c3f58b
+[OK] Cloud Infrastructure Specialist - Cyber Security -> Updated with ID: 1550751827-4bd374c3f58b
+[OK] Go Programming Expert Level - Game Development -> Updated with ID: 1552824702-869279093e09
+[OK] Strategic Cybersecurity Overview - Game Development -> Updated with ID: 1550751827-4bd374c3f58b
+Database update finalized.

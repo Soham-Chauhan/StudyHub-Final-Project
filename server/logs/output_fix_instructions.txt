@@ -1,0 +1,3 @@
+﻿Connected to DB
+Fixing instructions for 30 courses...
+Instructions fixed!

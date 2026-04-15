@@ -1,0 +1,9 @@
+STARTING SCRIPT...
+REQUIRED ALL MODULES.
+CONNECTING...
+CONNECTED.
+CONFIGURED CLOUDINARY.
+PATH: C:\Users\anjan\.gemini\antigravity\brain\b7119367-ef1f-4411-bc1e-b3417e8f786e\media__1774441806313.jpg
+UPLOADED: https://res.cloudinary.com/dwed2xhap/image/upload/v1774442041/myData/mvvkaofcoraudyylvwre.jpg
+DB UPDATED: Go Programming Expert Level - Game Development
+FINISHED.

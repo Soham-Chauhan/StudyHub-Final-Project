@@ -1,0 +1,33 @@
+﻿Connected to DB
+Updating 30 courses with high-quality technical images...
+  - Updated [Basic React] with relevant image.
+  - Updated [Python for AI] with relevant image.
+  - Updated [Figma UI/UX Masterclass] with relevant image.
+  - Updated [MERN Stack Specialist] with relevant image.
+  - Updated [React Navigation Deep Dive] with relevant image.
+  - Updated [Data Visualization with D3.js] with relevant image.
+  - Updated [Advanced Cyber Security] with relevant image.
+  - Updated [Machine Learning Bootcamp] with relevant image.
+  - Updated [Adobe Illustrator 101] with relevant image.
+  - Updated [Graphic Design Fundamentals] with relevant image.
+  - Updated [Data Science with Python] with relevant image.
+  - Updated [Machine Learning Foundations] with relevant image.
+  - Updated [Complete Web Design] with relevant image.
+  - Updated [Game Development with Unity] with relevant image.
+  - Updated [Full-Stack Web Boot Camp - Devops] with relevant image.
+  - Updated [Advanced React Mastery - Devops] with relevant image.
+  - Updated [Practical Python for Beginners - ai ml] with relevant image.
+  - Updated [Machine Learning Concepts with Python - ai ml] with relevant image.
+  - Updated [Building Scalable Android Apps - Web Development] with relevant image.
+  - Updated [Cloud Infrastructure Specialist - Web Development] with relevant image.
+  - Updated [Go Programming Expert Level - Data Science] with relevant image.
+  - Updated [Strategic Cybersecurity Overview - Data Science] with relevant image.
+  - Updated [Full-Stack Web Boot Camp - Design] with relevant image.
+  - Updated [Advanced React Mastery - Design] with relevant image.
+  - Updated [Practical Python for Beginners - Mobile App Development] with relevant image.
+  - Updated [Machine Learning Concepts with Python - Mobile App Development] with relevant image.
+  - Updated [Building Scalable Android Apps - Cyber Security] with relevant image.
+  - Updated [Cloud Infrastructure Specialist - Cyber Security] with relevant image.
+  - Updated [Go Programming Expert Level - Game Development] with relevant image.
+  - Updated [Strategic Cybersecurity Overview - Game Development] with relevant image.
+High-quality thumbnail update complete!

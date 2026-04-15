@@ -1,0 +1,24 @@
+﻿Total Courses: 30
+- Basic React: 4 reviews
+  [5*] Priya: A life-changing course for me. Thank you, StudyNotion!
+  [4*] Aayush: Solid foundations. I feel much more confident now.
+  [4*] Aayush: Solid foundations. I feel much more confident now.
+  [5*] Priya: High quality content. Better than many expensive bootcamps!
+- Python for AI: 4 reviews
+  [5*] Sneha: A life-changing course for me. Thank you, StudyNotion!
+  [4*] Aayush: Very informative. The projects are actually useful for a portfolio.
+  [3*] Vikram: Good material, but I wish there were more quizzes.
+  [4*] Priya: Solid foundations. I feel much more confident now.
+- Figma UI/UX Masterclass: 3 reviews
+  [4*] Rahul: Solid foundations. I feel much more confident now.
+  [4*] Vikram: Solid foundations. I feel much more confident now.
+  [3*] Vikram: Good material, but I wish there were more quizzes.
+- MERN Stack Specialist: 4 reviews
+  [5*] Vikram: High quality content. Better than many expensive bootcamps!
+  [4*] Rahul: Very informative. The projects are actually useful for a portfolio.
+  [5*] Sneha: A life-changing course for me. Thank you, StudyNotion!
+  [4*] Rahul: Very informative. The projects are actually useful for a portfolio.
+- React Navigation Deep Dive: 3 reviews
+  [4*] Priya: Very informative. The projects are actually useful for a portfolio.
+  [5*] Vikram: Absolutely loved it! The instructor explains complex bits so simply.
+  [4*] Sneha: Solid foundations. I feel much more confident now.

@@ -1,0 +1,7 @@
+﻿Connected to DB
+Student created: Aayush Sharma
+Student created: Priya Patel
+Student created: Rahul Singh
+Student created: Sneha Reddy
+Student created: Vikram Gupta
+Seeding diverse reviews for 30 courses...

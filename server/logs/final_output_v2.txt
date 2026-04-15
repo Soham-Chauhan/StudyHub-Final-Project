@@ -1,0 +1,61 @@
+﻿Connected to DB
+Seeding diverse reviews for 30 courses...
+node : Seeding error: Error: RatingAndReview 
+validation failed: review: Path `review` is 
+required.
+At line:1 char:1
++ node seed_diverse_reviews.js 2>&1 | Out-File 
+-FilePath final_output_v ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (S 
+   eeding error: ...w` is required.:String) [  
+  ], RemoteException
+    + FullyQualifiedErrorId : NativeCommandErr 
+   or
+ 
+    at ValidationError.inspect (D:\StudyNotion-
+Mega-Project-main\StudyNotion-Mega-Project-main
+\Server\node_modules\mongoose\lib\error\validat
+ion.js:50:26)
+    at formatValue 
+(node:internal/util/inspect:877:19)
+    at inspect 
+(node:internal/util/inspect:404:10)
+    at formatWithOptionsInternal 
+(node:internal/util/inspect:2402:40)
+    at formatWithOptions 
+(node:internal/util/inspect:2264:10)
+    at console.value 
+(node:internal/console/constructor:345:14)
+    at console.error 
+(node:internal/console/constructor:412:61)
+    at seedDiverseReviews (D:\StudyNotion-Mega-
+Project-main\StudyNotion-Mega-Project-main\Serv
+er\seed_diverse_reviews.js:91:17)
+    at process.processTicksAndRejections 
+(node:internal/process/task_queues:105:5) {
+  errors: {
+    review: ValidatorError: Path `review` is 
+required.
+        at validate (D:\StudyNotion-Mega-Projec
+t-main\StudyNotion-Mega-Project-main\Server\nod
+e_modules\mongoose\lib\schematype.js:1365:13)
+        at SchemaType.doValidate (D:\StudyNotio
+n-Mega-Project-main\StudyNotion-Mega-Project-ma
+in\Server\node_modules\mongoose\lib\schematype.
+js:1349:7)
+        at D:\StudyNotion-Mega-Project-main\Stu
+dyNotion-Mega-Project-main\Server\node_modules\
+mongoose\lib\document.js:3006:18
+        at process.processTicksAndRejections 
+(node:internal/process/task_queues:85:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'review',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'RatingAndReview validation failed'
+}

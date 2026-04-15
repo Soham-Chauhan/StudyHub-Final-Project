@@ -1,0 +1,22 @@
+﻿Connected to DB
+Found 8 categories.
+Instructor created: Jane
+Instructor created: John
+Instructor created: Babbar
+- Course created: Full-Stack Web Boot Camp - Devops
+- Course created: Advanced React Mastery - Devops
+- Course created: Practical Python for Beginners - ai ml
+- Course created: Machine Learning Concepts with Python - ai ml
+- Course created: Building Scalable Android Apps - Web Development
+- Course created: Cloud Infrastructure Specialist - Web Development
+- Course created: Go Programming Expert Level - Data Science
+- Course created: Strategic Cybersecurity Overview - Data Science
+- Course created: Full-Stack Web Boot Camp - Design
+- Course created: Advanced React Mastery - Design
+- Course created: Practical Python for Beginners - Mobile App Development
+- Course created: Machine Learning Concepts with Python - Mobile App Development
+- Course created: Building Scalable Android Apps - Cyber Security
+- Course created: Cloud Infrastructure Specialist - Cyber Security
+- Course created: Go Programming Expert Level - Game Development
+- Course created: Strategic Cybersecurity Overview - Game Development
+Seeding complete! Now run seed.js to add sections to these courses.

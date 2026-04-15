@@ -1,0 +1,38 @@
+﻿Connected to DB
+Updated Avatar for: Aayush Sharma
+Updated Avatar for: Priya Patel
+Updated Avatar for: Rahul Singh
+Updated Avatar for: Sneha Reddy
+Updated Avatar for: Vikram Gupta
+Seeding diverse reviews for 30 courses...
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Basic React
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Python for AI
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Figma UI/UX Masterclass
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: MERN Stack Specialist
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: React Navigation Deep Dive
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Data Visualization with D3.js
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Advanced Cyber Security
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Machine Learning Bootcamp
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Adobe Illustrator 101
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Graphic Design Fundamentals
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Data Science with Python
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Machine Learning Foundations
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Complete Web Design
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Game Development with Unity
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Full-Stack Web Boot Camp - Devops
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Advanced React Mastery - Devops
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Practical Python for Beginners - ai ml
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Machine Learning Concepts with Python - ai ml
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Building Scalable Android Apps - Web Development
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Cloud Infrastructure Specialist - Web Development
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Go Programming Expert Level - Data Science
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Strategic Cybersecurity Overview - Data Science
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Full-Stack Web Boot Camp - Design
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Advanced React Mastery - Design
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Practical Python for Beginners - Mobile App Development
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Machine Learning Concepts with Python - Mobile App Development
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Building Scalable Android Apps - Cyber Security
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Cloud Infrastructure Specialist - Cyber Security
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Go Programming Expert Level - Game Development
+  - Seeded 3 diverse reviews (3,4,5 mixed) for: Strategic Cybersecurity Overview - Game Development
+Diverse review seeding complete!

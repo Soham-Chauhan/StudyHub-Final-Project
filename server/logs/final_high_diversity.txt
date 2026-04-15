@@ -1,0 +1,42 @@
+﻿Connected to DB
+Old reviews cleared.
+Student created: Aayush Sharma
+Student created: Priya Patel
+Student created: Rahul Singh
+Student created: Sneha Reddy
+Student created: Vikram Gupta
+Student created: Anil Verma
+Student created: Divya Iyer
+Student created: Sanjay Kumar
+Seeding unique reviews for 30 courses...
+  - Seeded 4 unique mixed reviews for: Basic React
+  - Seeded 4 unique mixed reviews for: Python for AI
+  - Seeded 4 unique mixed reviews for: Figma UI/UX Masterclass
+  - Seeded 4 unique mixed reviews for: MERN Stack Specialist
+  - Seeded 4 unique mixed reviews for: React Navigation Deep Dive
+  - Seeded 4 unique mixed reviews for: Data Visualization with D3.js
+  - Seeded 4 unique mixed reviews for: Advanced Cyber Security
+  - Seeded 4 unique mixed reviews for: Machine Learning Bootcamp
+  - Seeded 4 unique mixed reviews for: Adobe Illustrator 101
+  - Seeded 4 unique mixed reviews for: Graphic Design Fundamentals
+  - Seeded 4 unique mixed reviews for: Data Science with Python
+  - Seeded 4 unique mixed reviews for: Machine Learning Foundations
+  - Seeded 4 unique mixed reviews for: Complete Web Design
+  - Seeded 4 unique mixed reviews for: Game Development with Unity
+  - Seeded 4 unique mixed reviews for: Full-Stack Web Boot Camp - Devops
+  - Seeded 4 unique mixed reviews for: Advanced React Mastery - Devops
+  - Seeded 4 unique mixed reviews for: Practical Python for Beginners - ai ml
+  - Seeded 4 unique mixed reviews for: Machine Learning Concepts with Python - ai ml
+  - Seeded 4 unique mixed reviews for: Building Scalable Android Apps - Web Development
+  - Seeded 4 unique mixed reviews for: Cloud Infrastructure Specialist - Web Development
+  - Seeded 4 unique mixed reviews for: Go Programming Expert Level - Data Science
+  - Seeded 4 unique mixed reviews for: Strategic Cybersecurity Overview - Data Science
+  - Seeded 4 unique mixed reviews for: Full-Stack Web Boot Camp - Design
+  - Seeded 4 unique mixed reviews for: Advanced React Mastery - Design
+  - Seeded 4 unique mixed reviews for: Practical Python for Beginners - Mobile App Development
+  - Seeded 4 unique mixed reviews for: Machine Learning Concepts with Python - Mobile App Development
+  - Seeded 4 unique mixed reviews for: Building Scalable Android Apps - Cyber Security
+  - Seeded 4 unique mixed reviews for: Cloud Infrastructure Specialist - Cyber Security
+  - Seeded 4 unique mixed reviews for: Go Programming Expert Level - Game Development
+  - Seeded 4 unique mixed reviews for: Strategic Cybersecurity Overview - Game Development
+Seeding complete with high diversity!

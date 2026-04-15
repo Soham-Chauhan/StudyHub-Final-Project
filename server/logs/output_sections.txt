@@ -1,0 +1,63 @@
+﻿Connected to DB
+Found 30 courses to populate.
+Populating course: Basic React
+- Successfully updated Basic React with 2 sections and 4 lectures.
+Populating course: Python for AI
+- Successfully updated Python for AI with 2 sections and 4 lectures.
+Populating course: Figma UI/UX Masterclass
+- Successfully updated Figma UI/UX Masterclass with 2 sections and 4 lectures.
+Populating course: MERN Stack Specialist
+- Successfully updated MERN Stack Specialist with 2 sections and 4 lectures.
+Populating course: React Navigation Deep Dive
+- Successfully updated React Navigation Deep Dive with 2 sections and 4 lectures.
+Populating course: Data Visualization with D3.js
+- Successfully updated Data Visualization with D3.js with 2 sections and 4 lectures.
+Populating course: Advanced Cyber Security
+- Successfully updated Advanced Cyber Security with 2 sections and 4 lectures.
+Populating course: Machine Learning Bootcamp
+- Successfully updated Machine Learning Bootcamp with 2 sections and 4 lectures.
+Populating course: Adobe Illustrator 101
+- Successfully updated Adobe Illustrator 101 with 2 sections and 4 lectures.
+Populating course: Graphic Design Fundamentals
+- Successfully updated Graphic Design Fundamentals with 2 sections and 4 lectures.
+Populating course: Data Science with Python
+- Successfully updated Data Science with Python with 2 sections and 4 lectures.
+Populating course: Machine Learning Foundations
+- Successfully updated Machine Learning Foundations with 2 sections and 4 lectures.
+Populating course: Complete Web Design
+- Successfully updated Complete Web Design with 2 sections and 4 lectures.
+Populating course: Game Development with Unity
+- Successfully updated Game Development with Unity with 2 sections and 4 lectures.
+Populating course: Full-Stack Web Boot Camp - Devops
+- Successfully updated Full-Stack Web Boot Camp - Devops with 2 sections and 4 lectures.
+Populating course: Advanced React Mastery - Devops
+- Successfully updated Advanced React Mastery - Devops with 2 sections and 4 lectures.
+Populating course: Practical Python for Beginners - ai ml
+- Successfully updated Practical Python for Beginners - ai ml with 2 sections and 4 lectures.
+Populating course: Machine Learning Concepts with Python - ai ml
+- Successfully updated Machine Learning Concepts with Python - ai ml with 2 sections and 4 lectures.
+Populating course: Building Scalable Android Apps - Web Development
+- Successfully updated Building Scalable Android Apps - Web Development with 2 sections and 4 lectures.
+Populating course: Cloud Infrastructure Specialist - Web Development
+- Successfully updated Cloud Infrastructure Specialist - Web Development with 2 sections and 4 lectures.
+Populating course: Go Programming Expert Level - Data Science
+- Successfully updated Go Programming Expert Level - Data Science with 2 sections and 4 lectures.
+Populating course: Strategic Cybersecurity Overview - Data Science
+- Successfully updated Strategic Cybersecurity Overview - Data Science with 2 sections and 4 lectures.
+Populating course: Full-Stack Web Boot Camp - Design
+- Successfully updated Full-Stack Web Boot Camp - Design with 2 sections and 4 lectures.
+Populating course: Advanced React Mastery - Design
+- Successfully updated Advanced React Mastery - Design with 2 sections and 4 lectures.
+Populating course: Practical Python for Beginners - Mobile App Development
+- Successfully updated Practical Python for Beginners - Mobile App Development with 2 sections and 4 lectures.
+Populating course: Machine Learning Concepts with Python - Mobile App Development
+- Successfully updated Machine Learning Concepts with Python - Mobile App Development with 2 sections and 4 lectures.
+Populating course: Building Scalable Android Apps - Cyber Security
+- Successfully updated Building Scalable Android Apps - Cyber Security with 2 sections and 4 lectures.
+Populating course: Cloud Infrastructure Specialist - Cyber Security
+- Successfully updated Cloud Infrastructure Specialist - Cyber Security with 2 sections and 4 lectures.
+Populating course: Go Programming Expert Level - Game Development
+- Successfully updated Go Programming Expert Level - Game Development with 2 sections and 4 lectures.
+Populating course: Strategic Cybersecurity Overview - Game Development
+- Successfully updated Strategic Cybersecurity Overview - Game Development with 2 sections and 4 lectures.
+Course content population complete!

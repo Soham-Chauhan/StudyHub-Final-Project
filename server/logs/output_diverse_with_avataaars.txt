@@ -1,0 +1,38 @@
+﻿Connected to DB
+Updated Avatar for: Aayush Sharma
+Updated Avatar for: Priya Patel
+Updated Avatar for: Rahul Singh
+Updated Avatar for: Sneha Reddy
+Updated Avatar for: Vikram Gupta
+Seeding diverse reviews for 30 courses...
+  - Seeded 3 diverse reviews for: Basic React
+  - Seeded 4 diverse reviews for: Python for AI
+  - Seeded 3 diverse reviews for: Figma UI/UX Masterclass
+  - Seeded 4 diverse reviews for: MERN Stack Specialist
+  - Seeded 4 diverse reviews for: React Navigation Deep Dive
+  - Seeded 3 diverse reviews for: Data Visualization with D3.js
+  - Seeded 3 diverse reviews for: Advanced Cyber Security
+  - Seeded 4 diverse reviews for: Machine Learning Bootcamp
+  - Seeded 4 diverse reviews for: Adobe Illustrator 101
+  - Seeded 4 diverse reviews for: Graphic Design Fundamentals
+  - Seeded 4 diverse reviews for: Data Science with Python
+  - Seeded 3 diverse reviews for: Machine Learning Foundations
+  - Seeded 3 diverse reviews for: Complete Web Design
+  - Seeded 4 diverse reviews for: Game Development with Unity
+  - Seeded 4 diverse reviews for: Full-Stack Web Boot Camp - Devops
+  - Seeded 4 diverse reviews for: Advanced React Mastery - Devops
+  - Seeded 4 diverse reviews for: Practical Python for Beginners - ai ml
+  - Seeded 3 diverse reviews for: Machine Learning Concepts with Python - ai ml
+  - Seeded 4 diverse reviews for: Building Scalable Android Apps - Web Development
+  - Seeded 4 diverse reviews for: Cloud Infrastructure Specialist - Web Development
+  - Seeded 4 diverse reviews for: Go Programming Expert Level - Data Science
+  - Seeded 4 diverse reviews for: Strategic Cybersecurity Overview - Data Science
+  - Seeded 4 diverse reviews for: Full-Stack Web Boot Camp - Design
+  - Seeded 4 diverse reviews for: Advanced React Mastery - Design
+  - Seeded 3 diverse reviews for: Practical Python for Beginners - Mobile App Development
+  - Seeded 3 diverse reviews for: Machine Learning Concepts with Python - Mobile App Development
+  - Seeded 3 diverse reviews for: Building Scalable Android Apps - Cyber Security
+  - Seeded 3 diverse reviews for: Cloud Infrastructure Specialist - Cyber Security
+  - Seeded 3 diverse reviews for: Go Programming Expert Level - Game Development
+  - Seeded 3 diverse reviews for: Strategic Cybersecurity Overview - Game Development
+Diverse review seeding complete!

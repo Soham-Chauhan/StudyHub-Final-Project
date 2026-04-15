@@ -1,0 +1,41 @@
+﻿Connected to DB
+Updating thumbnails for 8 categories.
+Category: Devops (2 courses)
+  - Updated thumbnail for: Full-Stack Web Boot Camp - Devops
+  - Updated thumbnail for: Advanced React Mastery - Devops
+Category: ai ml (2 courses)
+  - Updated thumbnail for: Practical Python for Beginners - ai ml
+  - Updated thumbnail for: Machine Learning Concepts with Python - ai ml
+Category: Web Development (6 courses)
+  - Updated thumbnail for: Basic React
+  - Updated thumbnail for: MERN Stack Specialist
+  - Updated thumbnail for: React Navigation Deep Dive
+  - Updated thumbnail for: Complete Web Design
+  - Updated thumbnail for: Building Scalable Android Apps - Web Development
+  - Updated thumbnail for: Cloud Infrastructure Specialist - Web Development
+Category: Data Science (7 courses)
+  - Updated thumbnail for: Python for AI
+  - Updated thumbnail for: Data Visualization with D3.js
+  - Updated thumbnail for: Machine Learning Bootcamp
+  - Updated thumbnail for: Data Science with Python
+  - Updated thumbnail for: Machine Learning Foundations
+  - Updated thumbnail for: Go Programming Expert Level - Data Science
+  - Updated thumbnail for: Strategic Cybersecurity Overview - Data Science
+Category: Design (5 courses)
+  - Updated thumbnail for: Figma UI/UX Masterclass
+  - Updated thumbnail for: Adobe Illustrator 101
+  - Updated thumbnail for: Graphic Design Fundamentals
+  - Updated thumbnail for: Full-Stack Web Boot Camp - Design
+  - Updated thumbnail for: Advanced React Mastery - Design
+Category: Mobile App Development (2 courses)
+  - Updated thumbnail for: Practical Python for Beginners - Mobile App Development
+  - Updated thumbnail for: Machine Learning Concepts with Python - Mobile App Development
+Category: Cyber Security (3 courses)
+  - Updated thumbnail for: Advanced Cyber Security
+  - Updated thumbnail for: Building Scalable Android Apps - Cyber Security
+  - Updated thumbnail for: Cloud Infrastructure Specialist - Cyber Security
+Category: Game Development (3 courses)
+  - Updated thumbnail for: Game Development with Unity
+  - Updated thumbnail for: Go Programming Expert Level - Game Development
+  - Updated thumbnail for: Strategic Cybersecurity Overview - Game Development
+Thumbnails update complete!
