@@ -24,6 +24,11 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
 	cors({
+		// origin: [
+		// 	"http://localhost:3000",
+		// 	"https://study-hub-final-project.vercel.app",
+		// ],
+
 		origin: "https://study-hub-final-project.vercel.app",
 		credentials: true,
 	})
